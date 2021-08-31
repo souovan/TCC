@@ -1,3 +1,3 @@
 # Diagrama Entidade-Relacionamento (MER) – modelagem conceitual
 
-![MER](../images/MER EasyPet.jpg)
+![MER](../images/MER_EasyPet.jpg)
