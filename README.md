@@ -1,5 +1,5 @@
 # TCC
-Repositório do projeto final da minha graduação em análise e desenvolvimento de sistemas.
+Repositório do projeto final da minha graduação em análise e desenvolvimento de sistemas, onde documento um sistema de gestão de uma pet shop fictícia utilizando UML.
 
 [Introdução](https://github.com/souovan/TCC/blob/main/projeto/projeto_final_introducao.md)
 
