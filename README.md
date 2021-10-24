@@ -11,7 +11,7 @@ Repositório do projeto final da minha graduação em análise e desenvolvimento
 
 [Diagrama Entidade-Relacionamento (MER)](https://github.com/souovan/TCC/blob/main/projeto/mer.md)
 
-[Diagrama de Classe](https://github.com/souovan/TCC/blob/main/projeto/casos_de_uso.md)
+[Diagrama de Classe](https://github.com/souovan/TCC/blob/main/projeto/diagrama_de_classe.md)
 
 [Protótipos, layouts de telas e relatórios](https://github.com/souovan/TCC/blob/main/projeto/prototipos_layouts_telas_relatorios.md)
 
